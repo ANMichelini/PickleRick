@@ -1,4 +1,4 @@
-# new_app
+# pickle_rick
 
 A new Flutter project.
 
